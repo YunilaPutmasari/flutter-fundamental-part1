@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/cupertino.dart'; // Untuk menggunakan Cupertino widgets
 
-class MyApp extends StatelessWidget {
+class FabWidget extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
