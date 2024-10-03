@@ -39,10 +39,6 @@ Langkah 6: Date and Time Pickers
 
 5. README.md berisi: capture hasil akhir tiap praktikum (side-by-side, bisa juga berupa file GIF agar terlihat proses perubahan ketika ada aksi dari pengguna) dengan menampilkan NIM dan Nama Anda sebagai ciri pekerjaan Anda.
 
-<<<<<<< HEAD
-=======
-
->>>>>>> 9df0ee0084b41c080309dc6b5feadccd3b110cde
 Tugas Praktikum :
 ![Screenshot hello_world](images/prak1.png)
 4. Menambahkan tombol
